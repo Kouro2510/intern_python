@@ -44,4 +44,4 @@ Object.setPrototypeOf(lionConstructor ,animalConstructor,birdConstructor);
 const lion = Lions("Goku","201", "200");
 const bird=Birds("Clara","225","292");
 console.log(lion.meat() +" "+ lion.animalHeight() +" and "+lion.speedRuns());
-console.log(bird.vegetable + bird.animalHeight+" and "+bird.speedFlys());
+// console.log(bird.vegetable + bird.animalHeight+" and "+bird.speedFlys());

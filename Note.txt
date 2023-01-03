@@ -27,3 +27,11 @@ Xem lại lập kiến thức về lập trình hướng đối tượng(✓)
 - Định nghĩa một vài phương thức cho mỗi lớp, ví dụ: run, fly, move...
 - Định nghĩa một vài instance methods và class methods
 - Setup môi trường để có thể chạy code trên (local, online...)
+-------------------------------------------------------------
+Github	"- Tạo tài khoản github (setup 2fa)(✓)
+- Generate ssh key and add to github
+--------------------------------------------------------------
+Github	"- Nắm các lệnh git cơ bản: commit, push, fetch, pull, merge.(✓)
+- Nắm một số chức năng cơ bản của github: tạo PR, issues..."
+- Chia sẽ một số câu lệnh cơ bản
+- Chia sẽ một số tính năng cơ bản của github"
