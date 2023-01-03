@@ -1,0 +1,29 @@
+Note.txt
+Day 1:
+Tìm hiểu về terminal
+Setup môi trường (✓)	
+- Subllime -> không sử dụng các editor khác giúp nhanh nhớ các func hơn
+- Terminal -> làm quen với các command line cơ bản 
+	(
+	+ cd (change directory):(✓) 2 mục chưa test
+		- cd di chuyển đến thư mục phía trong của thư mục cha ,
+		- cd.: ở lại thư mục hiện tại,
+		- cd..:(prev)di chuyển tới thư mục cha của thư mục hiện tại
+		- cd <nameFile>:<next> di chuyển đến thư mục con của thư mục cha 
+		- cd <link>:Nó sẽ đưa đến thư mục đã được chỉ định
+	+ mkdir (make directory): tạo một thư mục phía trong thư mục cha,
+	+touch:tạo ra 1 file trên thư mục đó
+	+cat <fileName>:(Concatrate) tạo một thư mục/*Chưa test*/
+	+tail:Hiển thị dòng lệnh trên file /*Chưa test*/
+)
+- Sử dụng thành thạo các command line cơ bản
+- Có thể cài đặt một số packages cơ bản"
+---------------------------------------------------
+Ôn tập lại kiến thức OOP	(✓)
+Xem lại lập kiến thức về lập trình hướng đối tượng(✓)
+- Sử dụng ngôn ngữ mà mình biết, hoặc được đào tạo ở trường để định nghĩa 3 lớp sau: Animal, Lion, Bird(✓)
+- Định nghĩa constructor cho từng lớp
+- Định nghĩa một vài thuộc tính cho mỗi lớp, ví dụ: chiều cao, cân nặng...
+- Định nghĩa một vài phương thức cho mỗi lớp, ví dụ: run, fly, move...
+- Định nghĩa một vài instance methods và class methods
+- Setup môi trường để có thể chạy code trên (local, online...)
